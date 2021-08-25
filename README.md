@@ -1,0 +1,1 @@
+# private-qr-stock
