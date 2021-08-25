@@ -31,7 +31,7 @@ As it's a react/expo app, you should download [Node.js](https://nodejs.org/en/)
 After that is done, we need to create a [Firebase](https://firebase.google.com/) 
 application to host our database, which will be suported with Firestore Database.
 
-The only requirement is that the database should have a collection named "codigos" which will be the "table" where you will persist your qrcode values
+The only requirement is that the database should have a collection named "codigos" which will be the "table" where you will persist your qrcode/barcode values
 ![codigos](https://i.imgur.com/rNjfkLO.png)
 
 Then create a API Key which will you need for later 
@@ -43,7 +43,7 @@ Then create a API Key which will you need for later
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dududuarte/private-qr-stock.git
+   git clone https://github.com/dududuarte/private-scan-stock.git
    ```
 2. Install NPM packages
    ```
