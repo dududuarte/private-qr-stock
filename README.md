@@ -46,9 +46,9 @@ Then create a API Key which will you need for later
    git clone https://github.com/dududuarte/private-scan-stock.git
    ```
 2. Install NPM packages
-   ```
    ```sh
    npm install
+   ```
 3. Enter your API in `src/constants/ApiKeys.js`
 
    ```JS
