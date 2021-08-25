@@ -14,10 +14,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-If you have a label printer and you want to identify your products with custom labels, you can use make use of this app to support your infrastructure in a way that the information from those items can be displayed on a simple device such as smartphone, there's also way to import your own items and display your own labels.
+If you have a label printer and you want to identify your products with custom labels, you can use make use of this app to support your infrastructure in a way that the information from those items can be displayed on a simple device such as smartphone, there's also way to import your own items and display your own labels. **The Scanner works for most barcodes** for the full list, refer to [Documentation](https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/#supported-formats)
 
+![screenshots](https://i.imgur.com/7rgGxNY.png)
 ### Built With
-
 * [Expo](https://expo.dev/)
 
 <!-- GETTING STARTED -->
@@ -46,9 +46,9 @@ Then create a API Key which will you need for later
    git clone https://github.com/dududuarte/private-qr-stock.git
    ```
 2. Install NPM packages
+   ```
    ```sh
    npm install
-   ```
 3. Enter your API in `src/constants/ApiKeys.js`
 
    ```JS
@@ -100,13 +100,13 @@ In case of any doubt or anything feel free to enter in contact:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dududuarte/private-qr-stock.svg?style=for-the-badge
-[contributors-url]: https://github.com/dududuarte/private-qr-stockgraphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dududuarte/private-qr-stock.svg?style=for-the-badge
-[forks-url]: https://github.com/dududuarte/private-qr-stocknetwork/members
-[stars-shield]: https://img.shields.io/github/stars/dududuarte/private-qr-stock.svg?style=for-the-badge
-[stars-url]: https://github.com/dududuarte/private-qr-stockstargazers
-[license-shield]: https://img.shields.io/github/license/dududuarte/private-qr-stock.svg?style=for-the-badge
-[license-url]: https://github.com/dududuarte/private-qr-stock/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/dududuarte/private-scan-stock.svg?style=for-the-badge
+[contributors-url]: https://github.com/dududuarte/private-scan-stock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dududuarte/private-scan-stock.svg?style=for-the-badge
+[forks-url]: https://github.com/dududuarte/private-scan-stock/network/members
+[stars-shield]: https://img.shields.io/github/stars/dududuarte/private-scan-stock.svg?style=for-the-badge
+[stars-url]: https://github.com/dududuarte/private-scan-stock/stargazers
+[license-shield]: https://img.shields.io/github/license/dududuarte/private-scan-stock.svg?style=for-the-badge
+[license-url]: https://github.com/dududuarte/private-scan-stock/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/duartemcg/
